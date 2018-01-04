@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 68cb281534b2f40ef8fa167fccee270e
+timeCreated: 1512523942
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Clarke
+  fontNames:
+  - Clarke
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2c1a8a20b1d5c4cfab4f42f4988a6e8a, type: 3}
+  - {fileID: 12800000, guid: 530a30edefb1a4fed9e95b5e40398e7e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

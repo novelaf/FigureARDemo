@@ -1,0 +1,12 @@
+{
+  "width": 15,
+  "height": 5,
+  "tiles": {
+    "0.1": {
+      "mat": "grass"
+    },
+    "0.2": {
+      "mat": "stone"
+    }
+  }
+}

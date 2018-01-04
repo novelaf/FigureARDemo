@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+    <Tracking>
+        <ImageTarget name="5A" size="0.177800 0.177800" />
+        <ImageTarget name="5B" size="0.177800 0.177800" />
+        <MultiTarget name="FigureMulti_IG">
+            <Part name="5A" translation="0.6731007 0 .127" rotation="AD: 1 0 0 -90"/>
+            <Part name="5B" translation="0.4953007 0 .127" rotation="AD: 1 0 0 -90"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>

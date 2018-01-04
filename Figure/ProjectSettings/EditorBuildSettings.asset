@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/AR.unity
+    guid: a7b2b3c2c64314aa88e37aea1cc320e6
+  - enabled: 0
+    path: Assets/AR_multiimage.unity
+    guid: 0e7289a089e2548dca7c804a0d61d721
+  - enabled: 0
+    path: Assets/AR_multiimage_final.unity
+    guid: 0ff028e0d064b4d5a8d5330d0fe3ef79
+  - enabled: 1
+    path: Assets/AR_insta_version.unity
+    guid: 876f0e4955339490a9e70b5bea309040

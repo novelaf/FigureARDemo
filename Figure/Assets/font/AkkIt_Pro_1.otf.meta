@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 7da9cfd7982cd482785884d58d0b8fce
+timeCreated: 1512786932
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Akkurat Pro
+  fontNames:
+  - Akkurat Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2cf43a76c5e3b400389f32de55899bfc, type: 3}
+  - {fileID: 12800000, guid: 6d08c107b3d7644d89c5a3c8743efe5a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

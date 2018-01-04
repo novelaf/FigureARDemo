@@ -1,0 +1,321 @@
+fileFormatVersion: 2
+guid: 1d5c54c9a7e354a12932b6fbfd93778f
+timeCreated: 1512524871
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bin1
+    100004: Bin2
+    100006: Bin3
+    100008: Bin4
+    100010: corner1_a
+    100012: corner1_a 1
+    100014: corner1_a 2
+    100016: corner1_a 3
+    100018: corner1_b
+    100020: corner1_b 1
+    100022: corner1_b 2
+    100024: corner1_b 3
+    100026: corner1_c
+    100028: corner1_c 1
+    100030: corner1_c 2
+    100032: corner1_c 3
+    100034: corner1_d
+    100036: corner1_d 1
+    100038: corner1_d 2
+    100040: corner1_d 3
+    100042: Full1
+    100044: Full2
+    100046: Full4
+    100048: Full5
+    100050: Full6
+    100052: mid1_a
+    100054: mid1_a 1
+    100056: mid1_a 2
+    100058: mid1_a 3
+    100060: mid1_b
+    100062: mid1_b 1
+    100064: mid1_b 2
+    100066: mid1_b 3
+    100068: mid1_c
+    100070: mid1_c 1
+    100072: mid1_c 2
+    100074: mid1_c 3
+    100076: mid1_d
+    100078: mid1_d 1
+    100080: mid1_d 2
+    100082: mid1_d 3
+    100084: MidPlane
+    100086: MidPlane 1
+    100088: MidPlane 2
+    100090: MidPlane 3
+    100092: TopPlane
+    100094: TopPlane 1
+    100096: TopPlane 2
+    100098: TopPlane 3
+    400000: //RootNode
+    400002: Bin1
+    400004: Bin2
+    400006: Bin3
+    400008: Bin4
+    400010: corner1_a
+    400012: corner1_a 1
+    400014: corner1_a 2
+    400016: corner1_a 3
+    400018: corner1_b
+    400020: corner1_b 1
+    400022: corner1_b 2
+    400024: corner1_b 3
+    400026: corner1_c
+    400028: corner1_c 1
+    400030: corner1_c 2
+    400032: corner1_c 3
+    400034: corner1_d
+    400036: corner1_d 1
+    400038: corner1_d 2
+    400040: corner1_d 3
+    400042: Full1
+    400044: Full2
+    400046: Full4
+    400048: Full5
+    400050: Full6
+    400052: mid1_a
+    400054: mid1_a 1
+    400056: mid1_a 2
+    400058: mid1_a 3
+    400060: mid1_b
+    400062: mid1_b 1
+    400064: mid1_b 2
+    400066: mid1_b 3
+    400068: mid1_c
+    400070: mid1_c 1
+    400072: mid1_c 2
+    400074: mid1_c 3
+    400076: mid1_d
+    400078: mid1_d 1
+    400080: mid1_d 2
+    400082: mid1_d 3
+    400084: MidPlane
+    400086: MidPlane 1
+    400088: MidPlane 2
+    400090: MidPlane 3
+    400092: TopPlane
+    400094: TopPlane 1
+    400096: TopPlane 2
+    400098: TopPlane 3
+    2100000: lambert1
+    2300000: corner1_a
+    2300002: corner1_a 1
+    2300004: corner1_a 2
+    2300006: corner1_a 3
+    2300008: corner1_b
+    2300010: corner1_b 1
+    2300012: corner1_b 2
+    2300014: corner1_b 3
+    2300016: corner1_c
+    2300018: corner1_c 1
+    2300020: corner1_c 2
+    2300022: corner1_c 3
+    2300024: corner1_d
+    2300026: corner1_d 1
+    2300028: corner1_d 2
+    2300030: corner1_d 3
+    2300032: Full1
+    2300034: Full2
+    2300036: Full4
+    2300038: Full5
+    2300040: Full6
+    2300042: mid1_a
+    2300044: mid1_a 1
+    2300046: mid1_a 2
+    2300048: mid1_a 3
+    2300050: mid1_b
+    2300052: mid1_b 1
+    2300054: mid1_b 2
+    2300056: mid1_b 3
+    2300058: mid1_c
+    2300060: mid1_c 1
+    2300062: mid1_c 2
+    2300064: mid1_c 3
+    2300066: mid1_d
+    2300068: mid1_d 1
+    2300070: mid1_d 2
+    2300072: mid1_d 3
+    2300074: MidPlane
+    2300076: MidPlane 1
+    2300078: MidPlane 2
+    2300080: MidPlane 3
+    2300082: TopPlane
+    2300084: TopPlane 1
+    2300086: TopPlane 2
+    2300088: TopPlane 3
+    3300000: corner1_a
+    3300002: corner1_a 1
+    3300004: corner1_a 2
+    3300006: corner1_a 3
+    3300008: corner1_b
+    3300010: corner1_b 1
+    3300012: corner1_b 2
+    3300014: corner1_b 3
+    3300016: corner1_c
+    3300018: corner1_c 1
+    3300020: corner1_c 2
+    3300022: corner1_c 3
+    3300024: corner1_d
+    3300026: corner1_d 1
+    3300028: corner1_d 2
+    3300030: corner1_d 3
+    3300032: Full1
+    3300034: Full2
+    3300036: Full4
+    3300038: Full5
+    3300040: Full6
+    3300042: mid1_a
+    3300044: mid1_a 1
+    3300046: mid1_a 2
+    3300048: mid1_a 3
+    3300050: mid1_b
+    3300052: mid1_b 1
+    3300054: mid1_b 2
+    3300056: mid1_b 3
+    3300058: mid1_c
+    3300060: mid1_c 1
+    3300062: mid1_c 2
+    3300064: mid1_c 3
+    3300066: mid1_d
+    3300068: mid1_d 1
+    3300070: mid1_d 2
+    3300072: mid1_d 3
+    3300074: MidPlane
+    3300076: MidPlane 1
+    3300078: MidPlane 2
+    3300080: MidPlane 3
+    3300082: TopPlane
+    3300084: TopPlane 1
+    3300086: TopPlane 2
+    3300088: TopPlane 3
+    4300000: corner1_a
+    4300002: corner1_b
+    4300004: corner1_c
+    4300006: corner1_d
+    4300008: mid1_a
+    4300010: mid1_b
+    4300012: mid1_c
+    4300014: mid1_d
+    4300016: TopPlane
+    4300018: MidPlane
+    4300020: corner1_a
+    4300022: corner1_b
+    4300024: corner1_c
+    4300026: corner1_d
+    4300028: mid1_a
+    4300030: mid1_b
+    4300032: mid1_c
+    4300034: mid1_d
+    4300036: TopPlane
+    4300038: MidPlane
+    4300040: corner1_a
+    4300042: corner1_b
+    4300044: corner1_c
+    4300046: corner1_d
+    4300048: mid1_a
+    4300050: mid1_b
+    4300052: mid1_c
+    4300054: mid1_d
+    4300056: TopPlane
+    4300058: MidPlane
+    4300060: corner1_a
+    4300062: corner1_b
+    4300064: corner1_c
+    4300066: corner1_d
+    4300068: mid1_a
+    4300070: mid1_b
+    4300072: mid1_c
+    4300074: mid1_d
+    4300076: TopPlane
+    4300078: MidPlane
+    4300080: Full6
+    4300082: Full5
+    4300084: Full4
+    4300086: Full2
+    4300088: Full1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
